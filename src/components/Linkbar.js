@@ -19,9 +19,6 @@ const Linkbar = () => (
         <Link to="/">Home</Link>
       </Li>
       <Li>
-        <Link to="/projects">Projects</Link>
-      </Li>
-      <Li>
         <Link to="https://github.com/RussGlover">Github</Link>
       </Li>
       <Li>
